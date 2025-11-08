@@ -7,6 +7,6 @@ A escolha do Strategy se justifica pelo requisito de troca dinâmica de algoritm
 
 Princípios SOLID aplicados
 
-OCP: Novas estratégias podem ser adicionadas sem alterar código existente
-DIP: O contexto depende da abstração (RiscoStrategy)
-SRP: Cada classe tem apenas uma responsabilidade (um cálculo de risco)
+OCP: Novas estratégias podem ser adicionadas sem alterar código existente, 
+DIP: O contexto depende da abstração (RiscoStrategy), 
+SRP: Cada classe tem apenas uma responsabilidade (um cálculo de risco).
